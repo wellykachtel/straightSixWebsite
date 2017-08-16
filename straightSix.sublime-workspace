@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"collec",
+				"collectorMonkeyID"
+			],
+			[
+				"P",
+				"P"
+			],
+			[
+				"p_phone",
+				"p_phone"
+			],
+			[
+				"pag",
+				"page_title"
+			],
+			[
+				"pro",
+				"proposal_type"
+			],
+			[
+				"block",
+				"block\tTwig : Block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "website/views/users/newuser.jade",
+			"settings":
+			{
+				"buffer_size": 2370,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "package",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website",
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website/public",
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website/public/javascripts",
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website/routes",
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website/views",
+		"/C/Users/kelly.wachtel/Desktop/straightSixWebsite/website/views/users"
+	],
+	"file_history":
+	[
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/jha-view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/m/jha.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/m/schedule.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/create.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/base.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/jq-create.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/includes/php_funcs.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/js/workorder.js",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/workorders/service-workorder-create.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/dispatch-maintenance.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/workorders/service-workorder.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/workorder.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/index.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/unity.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/wo-html.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/tabbed.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/jq-quicksite.php",
+		"/C/Users/kelly.wachtel/Desktop/state_abbr_fix",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/rfp/rfp_create.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/rfp/rfp_view.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/rfp_create.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/rfp_view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summary.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/jq_rfpsearch_inner.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/scheduling_by_customer.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/service-activity-tracker.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/unassigned-workorders.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_days.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summary_all.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summary_boeing.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summ_by_ctc.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summ_inner.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summ_inner_res.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/wo_summ.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/scheduling_by_ctc.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/pending-customer-action.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/parts-only.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/parts-on-order.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/objects/Notifications.class.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/overdue-wo-visits.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/overdue-wo-novisits.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/index.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/js/quicksite.js",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/workorders/workorder-timestamps.inc.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/jq-workorder.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/site_meld_action.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/includes/getBasePresets.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/add_site_nospectrum.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/company_site_edit.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/m/workorder.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/m/csp_update.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/reschedule.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/plannedcsp.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/iplan_eq.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/dispatch-showunassigned.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/dispatch-board.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/includes/woNotify.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_update_p.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_update.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_list.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_create.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp_edit.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/csp-html.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/partner_link.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/pa_view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/pa_edit.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/pa_add.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/link.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/enable.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/loc_results.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/loc_edit_nospectrum.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/loc_add.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/index.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/rfp/test.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/test.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/co_prefs_proc.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/co_prefs.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/surveys/select_office.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/surveys/index.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/survey_complete.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/workorders/survey_complete.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/includes/ws_funcs.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/survey_index.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/company_wo_preferences.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/loc_edit.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/loc_edit_p.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/js/admin-panel.js",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/edit_upload_rfp.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/rfp_create_p.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/upload_rfp.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/update_upload_rfp.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/searchProposals.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/inline_edit.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/searchUsers.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/searchCode.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/workorders/workorder-history.inc.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/user_diag.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/uid_action.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/iCareTemplate.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/partner/searchName.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/sla-compliance.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/library/folder.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/rfp_update.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/rfp/rfp_edit.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/library/view_si.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/js/pwcomplexity.js",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/password_reset_p.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/objects/iCareAuth.class.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/password_reset_p.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/password_reset.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/password_reset.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/library/view-files.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/csp_view_p.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/workorder/csp_view.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/csp/file_upload.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/library/add_doc.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/iplan/wo_by_spec.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/login-process.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/library/download.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/library/upload.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/reports/sla-yesterday.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/reports/sla-yesterday.tpl",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/user_acc_ss_proc.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/templates/admin/company_user_add.html.twig",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/admin/company/user_new_proc.php",
+		"/C/Users/kelly.wachtel/Desktop/iCare/site/includes/constants.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\kelly.wachtel\\Desktop\\iCare\\templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"now",
+			"my_schedule.php",
+			"icare-modal-dialog",
+			"state_abbr",
+			"\\\"",
+			"convmail",
+			"\"",
+			"'",
+			"email",
+			"Mail",
+			"mail",
+			"speci",
+			"site_type",
+			"login-process",
+			"canacces",
+			"on_site",
+			"convmail",
+			"lg",
+			"left",
+			"n>",
+			"navAlpha",
+			"pagination",
+			"md",
+			"convMail",
+			"rightColumn",
+			"leftColumn",
+			"<li",
+			"h4",
+			"convMail",
+			"1",
+			"xs",
+			"hidden",
+			"rfp",
+			"rsp",
+			"myString",
+			"name",
+			"\"",
+			"regions",
+			"region",
+			"regions",
+			"messages",
+			"Type",
+			"type",
+			"Type",
+			"top",
+			"R",
+			" required",
+			"1'",
+			"1",
+			"id",
+			"row",
+			"tz",
+			"siteEditFo",
+			"siteEditFrom",
+			"company",
+			"icon",
+			"site",
+			"from",
+			"countries",
+			"d_tz",
+			"city",
+			"City",
+			"city",
+			"site_name",
+			"notes_body",
+			"scope_body",
+			"scope",
+			"$mail_type",
+			"\"F j, Y, g:i a\"",
+			"decline",
+			"]",
+			"innerHTML = data;",
+			".prop('disabled', true);",
+			"h",
+			"htmlspecialchars($rfp_data['contact_name'])\nhtmlspecialchars($rfp_data['contact_phone'])\nhtmlspecialchars($rfp_data['contact_email'])",
+			"htmlspecialchars",
+			"id",
+			"').value",
+			"document.getElementById('",
+			"document.getElementById(\"",
+			"site_id",
+			"site_id ",
+			"site_id",
+			"style=\"padding-right:50px\"",
+			"Invalid Si",
+			"segment_id",
+			"date",
+			"Date",
+			"date",
+			"rsp",
+			"business",
+			",",
+			"sites",
+			"region",
+			"regions",
+			"5",
+			"&amp;",
+			"1",
+			"\\",
+			"updateq",
+			"q",
+			"cid",
+			"sid",
+			"src",
+			"RegionID",
+			"newcid",
+			">\n",
+			"h4",
+			"<?=FQDN?>",
+			"8",
+			"required",
+			"9",
+			"3",
+			"has-feedback ",
+			"<span class=\"glyphicon form-control-feedback\" aria-hidden=\"true\"></span>",
+			"9",
+			"sm",
+			"form-group",
+			"|",
+			"1",
+			"dt",
+			"dd",
+			"display",
+			"display-",
+			"display",
+			"$qs",
+			"md",
+			"qs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"\\\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\kelly.wachtel\\Desktop\\straightSixWebsite\\website"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "website/views/users/newuser.jade",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1771,
+								1771
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 304.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
