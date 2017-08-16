@@ -1,0 +1,33 @@
+doctype html
+html
+	head
+		title= title
+		link(rel='stylesheet', href='/stylesheets/style.css')
+		link(rel='stylesheet', href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css')
+		script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js')
+		script(src='https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js')
+		script(src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js')
+		meta(name="viewport", content="width=device-width, initial-scale=1.0, maximum-scale=1.0")
+		script(src='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.3.0/fullcalendar.min.js')
+		link(rel='stylesheet', href='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.3.0/fullcalendar.min.css')
+		link(rel='stylesheet', href='//cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.3.0/fullcalendar.print.css')
+
+		block head
+	body
+		div.row#nav-row
+			div.col-xs-2
+				a(href='#')
+					img(src="/images/logo-green.png" width="100%")
+			div.col-xs-7.row#nav-tabs
+				a(href='/' class='col-xs-3 nav-tab') Home
+				a(href='#' class='col-xs-3 nav-tab') About
+				a(href='#' class='col-xs-3 nav-tab') Schedule
+				a(href='#' class='col-xs-3 nav-tab') Contact
+			div.col-xs-3.row#login-tabs
+				//a(href='/logout' class='col-xs-4 login') Logout
+				//a(href='/login' class="col-xs-4 login") Login
+				//a(href='/signup' class="col-xs-4 login") Sign Up
+			if alertText
+				div.col-xs-8#announcements
+					div !{alertText}
+		block content

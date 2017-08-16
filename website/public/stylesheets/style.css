@@ -1,0 +1,60 @@
+
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+#nav-tabs {
+  border-bottom: 5px solid #808080;
+}
+.nav-tab {
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;
+  font-size: 17px;
+  color: #000;
+  font-weight: bold;
+}
+.nav-tab:link {
+  text-decoration: none;
+}
+.nav-tab:visited {
+  text-decoration: none;
+}
+.nav-tab:hover {
+  text-decoration: none;
+  background-color: LightGray;
+}
+.nav-tab:active {
+  text-decoration: none;
+  background-color: LightGray;
+}
+#login-tabs {
+  border-bottom: 5px solid #808080;
+  padding: 27px;
+}
+.login {
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;
+  font-size: 10px;
+  color: #000;
+  font-weight: bold;
+}
+.login:link {
+  text-decoration: none;
+}
+.login:visited {
+  text-decoration: none;
+}
+.login:hover {
+  text-decoration: none;
+  background-color: LightGray;
+}
+.login:active {
+  text-decoration: none;
+  background-color: LightGray;
+}
+#announcements {
+  text-align: center;
+  margin-top: 15px;
+}

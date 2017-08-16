@@ -1,0 +1,75 @@
+extends ../layout
+block head
+	script(src='https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.16.0/jquery.validate.js')
+	script(src='/javascripts/newuser.js')
+block content
+	form#formAddUser(name="adduser" method="post" action="/users/adduser")
+		div.row
+			div.col-xs-3
+			div.col-xs-6
+				div.row
+					div.col-xs-6
+						div.form-group
+							label(for='first_name') First Name
+							input(type="text" class="form-control" id="first_name" name="first_name" required)
+					div.col-xs-6
+						div.form-group
+							label(for='last_name') Last Name
+							input(type="text" class="form-control" id="last_name" name="last_name" required)
+				div.row
+					div.col-xs-6
+						div.form-group
+							label(for='password') Create Password
+							input(type='password' class='form-control' id='password' name='password' required)
+							label#pwdError(style='display:none', for='password') Passwords must match.
+					div.col-xs-6
+						div.form-group
+							label(for='password_confirm') Confrim Password
+							input(type='password' class='form-control' id='password_confirm' name='password_confirm' required)
+				div.row
+					div.col-xs-6
+						div.form-group
+							label(for='email') Email
+							input(type="email" class="form-control" id="email" name="email" required)
+					div.col-xs-6
+						div.form-group
+							label(for='cellphone') Cellphone
+							input(type="text" class="form-control" id="cellphone" name="cellphone" required)
+				div.row
+					div.col-xs-6
+						div.form-group
+							label(for='level') Skill Level
+								a(href="/about/levels")
+									span.glyphicon.glyphicon-question-sign
+							select.form-control#level(name="level" required)
+								option AA
+								option A
+								option BB
+								option B
+					div.col-xs-6
+						div.checkbox
+							label
+								input(type="checkbox" name="OH")
+								| Outside Hitter
+						div.checkbox
+							label
+								input(type="checkbox" name="MH")
+								| Middle Hitter
+						div.checkbox
+							label
+								input(type="checkbox" name="RH")
+								| Rightside Hitter
+						div.checkbox
+							label
+								input(type="checkbox" name="SE")
+								| Setter
+						div.checkbox
+							label
+								input(type="checkbox" name="DS")
+								| Defensive Specialist
+				div.row
+					div.col-xs-5
+					div.col-xs-2
+						button(type='submit' class="btn btn-info btn-block" id='submit') Submit
+
+
